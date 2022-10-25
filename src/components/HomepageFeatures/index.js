@@ -7,18 +7,21 @@ const FeatureList = [
     title: "Frontend Developer",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
-      <>Using modern tools like React JS, Vue JS, and Tailwind CSS. </>
+      <>
+        Using modern tools like React JS, Vue JS, and Tailwind CSS. Other
+        libraries include GSAP, Axios, and Three JS.{" "}
+      </>
     ),
   },
   {
-    title: "User Interfaces",
+    title: "Web Designer",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: <>I create User Interfaces that are responsive.</>,
+    description: <>Visual design with Adobe CC/Figma.</>,
   },
   {
-    title: "Digital Assets",
+    title: "Content Creator",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
-    description: <>I create digital assets like music and graphics.</>,
+    description: <>Mainly music, audio, and graphic digital assets.</>,
   },
 ];
 

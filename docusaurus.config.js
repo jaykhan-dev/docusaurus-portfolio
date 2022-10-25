@@ -60,19 +60,24 @@ const config = {
         title: "Jay Khan",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/jk-logo.png",
         },
         items: [
           {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Work",
+            label: "Docs",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/jaykhan-dev",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            href: "https://www.linkedin.com/in/jkhanprofile",
+            label: "LinkedIn",
             position: "right",
           },
         ],

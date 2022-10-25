@@ -2,46 +2,67 @@
 sidebar_position: 1
 ---
 
-# Work Intro
+# Tech Stack
 
-Let's discover **Docusaurus in less than 5 minutes**.
+The following table highlights the main technology stack that I am familiar with. The kinds of projects that I am interested in are web and blockchain related.
 
-## Getting Started
+### Design
 
-Get started by **creating a new site**.
+| Software                                                | Description                                             |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| [Adobe CC](https://www.adobe.com/ca/creativecloud.html) | Photoshop, Illustrator, XD, After Effects, Premiere Pro |
+| [Figma](https://figma.com)                              | For prototyping or just designing in general            |
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Frontend
 
-### What you'll need
+| Software                                 | Description                                             |
+| ---------------------------------------- | ------------------------------------------------------- |
+| [Vue JS](https://vuejs.org/)             | For building user interfaces and connecting to backends |
+| [React JS](https://reactjs.org)          |
+| [Tailwind CSS](https://tailwindcss.com/) | Building responsive user interfaces                     |
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### CMS
 
-## Generate a new site
+| Software                            | Description                    |
+| ----------------------------------- | ------------------------------ |
+| [WordPress](https://wordpress.org/) | Managing content               |
+| [Wagtail](https://wagtail.org/)     | CMS based on Django and Python |
 
-Generate a new Docusaurus site using the **classic template**.
+### Blockchain
 
-The classic template will automatically be added to your project after you run the command:
+| Software                            | Description                                                             |
+| ----------------------------------- | ----------------------------------------------------------------------- |
+| [Bitcoin](https://www.bitcoin.org/) | Learning how to connect a Lightning Wallet to a front-end for better UX |
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Version Control
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+| Software                    | Description       |
+| --------------------------- | ----------------- |
+| [Git](https://git-scm.com/) | Github, Bitbucket |
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Operating systems
 
-## Start your site
+| Software                                  | Description                  |
+| ----------------------------------------- | ---------------------------- |
+| [Apple](https://www.apple.com/)           | MacOS, Logic Pro             |
+| [Linux](https://www.linuxfoundation.org/) | Ubuntu 20.04, AWS, Heroku    |
+| [Microsoft](https://www.microsoft.com/)   | Windows 10, Microsoft Office |
 
-Run the development server:
+### Cloud
 
-```bash
-cd my-website
-npm run start
-```
+| Software                          | Description   |
+| --------------------------------- | ------------- |
+| [AWS](https://aws.amazon.com/)    | S3, Lightsail |
+| [Heroku](https://www.heroku.com/) | Cloud hosting |
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### Database
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+| Software                                  | Description                |
+| ----------------------------------------- | -------------------------- |
+| [PostgreSQL](https://www.postgresql.org/) | Object Relational Database |
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Containers
+
+| Software                          | Description                                           |
+| --------------------------------- | ----------------------------------------------------- |
+| [Docker](https://www.docker.com/) | Containers for cross platform development environment |

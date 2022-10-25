@@ -20,17 +20,31 @@ const sidebars = {
 
   tutorialSidebar: [
     "intro",
-    "hello",
-    {
-      type: "category",
-      label: "Tutorial",
-      items: ["tutorial-basics/create-a-document"],
-    },
+    "resume",
     {
       type: "category",
       label: "Web Development",
-      items: ["web-dev/shaybeas"],
+      items: [
+        "web-dev/shaybeas",
+        "web-dev/appreci",
+        "web-dev/pitbull-community",
+        "web-dev/scribendi",
+        "web-dev/budgetmore",
+      ],
     },
+    {
+      type: "category",
+      label: "Graphic Design",
+      items: [
+        "graphic-design/logos",
+        "graphic-design/posters",
+        "graphic-design/marketing",
+        "graphic-design/motion-graphics",
+        "graphic-design/social-media",
+      ],
+    },
+    "design-philosophy",
+    "content-strategy",
   ],
 };
 
